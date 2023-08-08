@@ -1,4 +1,4 @@
-.include "lab4_include.asm"
+.include "moving-dots_include.asm"
 
 .eqv NUM_DOTS 3
 
